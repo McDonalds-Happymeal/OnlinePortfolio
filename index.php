@@ -8,7 +8,8 @@
 
     <head>
         <title>Conforming HTML 4.01 Strict Template</title>
-        <link rel="stylesheet" type="text/css" href="CSS/#" />
+        <link href="https://fonts.googleapis.com/css?family=Oswald|Roboto" rel="stylesheet"> 
+        <link rel="stylesheet" type="text/css" href="CSS/Main.css" />
     </head>
 
     <body>
