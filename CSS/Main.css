@@ -1,12 +1,29 @@
+* {
+    font-family: 'Roboto',Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+
+.page {
+    width: 80vw;
+    min-width:540px;
+    max-width:1440px;
+    background-color:#808080;
+    margin: auto;
+}
+
 h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', Impact, Charcoal, sans-serif;
+    font-size: 2.5em;
 }
 h2 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', Impact, Charcoal, sans-serif;
+    font-size: 1.5em;
 }
 h3 {
-    font-family: 'Oswald', sans-serif;
+    font-size: 1.2em;
 }
 p {
-    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
 }
